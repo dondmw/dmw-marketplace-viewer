@@ -17410,14 +17410,6 @@
   {
     "Item": "Uprising Infernal Flame Crystal",
     "Price": "800,000",
-    "Quantity": "19",
-    "Shop Name": "kielz Shop",
-    "Owner": "kielz                           ",
-    "Map": "Dats Center (7)"
-  },
-  {
-    "Item": "Uprising Infernal Flame Crystal",
-    "Price": "800,000",
     "Quantity": "15",
     "Shop Name": "CH 5 OMEGA REDSKY",
     "Owner": "RedSky                          ",
@@ -45158,14 +45150,6 @@
     "Shop Name": "MuXianYin Shop",
     "Owner": "MuXianYin                       ",
     "Map": "Dats Center (3)"
-  },
-  {
-    "Item": "[SK] Sealed Necklace of the Wooden Puppet",
-    "Price": "2,200,000,000",
-    "Quantity": "1",
-    "Shop Name": "ChowDerange Shop",
-    "Owner": "ChowDerange                     ",
-    "Map": "Forest of the Beginning (4)"
   },
   {
     "Item": "Raid Essence",
