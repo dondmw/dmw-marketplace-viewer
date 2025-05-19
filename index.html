@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>DMW Marketplace Live</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    table { border-collapse: collapse; width: 100%; margin-top: 10px; }
+    th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+    th { background-color: #f2f2f2; }
+  </style>
+</head>
+<body>
+  <h1>DMW Marketplace Live Viewer</h1>
+  <input id="search" placeholder="Search..." style="width: 300px;" />
+  <table>
+    <thead>
+      <tr>
+        <th>Item</th>
+        <th>Cost</th>
+        <th>Quantity</th>
+        <th>Shop Name</th>
+        <th>Owner</th>
+        <th>Map</th>
+      </tr>
+    </thead>
+    <tbody id="results"></tbody>
+  </table>
+
+  <script>
+    const searchInput = document.getElementById('search');
+    const resultsTable = document.getElementById('results');
+    let cachedData = [];
+
+    async function loadData() {
+      try {
+        const response = await fetch('data.json?' + Date.now());
+        cachedData = await response.json();
+        displayData(cachedData);
+      } catch (error) {
+        console.error('Failed to load data.json', error);
+      }
+    }
+
+    function displayData(data) {
+      resultsTable.innerHTML = '';
+      if (!data) return;
+
+      const query = searchInput.value.trim().toLowerCase();
+
+      data.forEach(item => {
+        const itemName = (item.Item || '').toLowerCase();
+        if (query && !itemName.includes(query)) return;
+
+        const values = [
+          item.Item,
+          item.Price,
+          item.Quantity,
+          item["Shop Name"],
+          item.Owner,
+          item.Map
+        ];
+
+        const row = document.createElement('tr');
+        row.innerHTML = values.map(v => `<td>${v}</td>`).join('');
+        resultsTable.appendChild(row);
+      });
+    }
+
+    loadData();
+	
+    searchInput.addEventListener('input', () => {
+      displayData(cachedData);
+    });
+
+    setInterval(loadData, 5000);
+  </script>
+</body>
+</html>
