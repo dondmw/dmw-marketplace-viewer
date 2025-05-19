@@ -39360,28 +39360,12 @@
     "Map": "Dats Center (7)"
   },
   {
-    "Item": "Skill Memory Capsule [Critical]",
-    "Price": "2,500,000",
-    "Quantity": "6",
-    "Shop Name": "bokomon ch0",
-    "Owner": "Miragent                        ",
-    "Map": "Dats Center (0)"
-  },
-  {
     "Item": "Skill Memory Capsule Highest [Critical]",
     "Price": "5,450,000",
     "Quantity": "2",
     "Shop Name": "ch7magna",
     "Owner": "HeavensBr                       ",
     "Map": "Dats Center (7)"
-  },
-  {
-    "Item": "Skill Memory Capsule Highest [Critical]",
-    "Price": "5,500,000",
-    "Quantity": "4",
-    "Shop Name": "bokomon ch0",
-    "Owner": "Miragent                        ",
-    "Map": "Dats Center (0)"
   },
   {
     "Item": "Skill Memory Capsule Highest [Critical]",
@@ -45174,6 +45158,14 @@
     "Shop Name": "MuXianYin Shop",
     "Owner": "MuXianYin                       ",
     "Map": "Dats Center (3)"
+  },
+  {
+    "Item": "[SK] Sealed Necklace of the Wooden Puppet",
+    "Price": "2,200,000,000",
+    "Quantity": "1",
+    "Shop Name": "ChowDerange Shop",
+    "Owner": "ChowDerange                     ",
+    "Map": "Forest of the Beginning (4)"
   },
   {
     "Item": "Raid Essence",
