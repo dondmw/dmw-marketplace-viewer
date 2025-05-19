@@ -15138,6 +15138,14 @@
   {
     "Item": "Ring of Sealed Baihumon",
     "Price": "400,000",
+    "Quantity": "10",
+    "Shop Name": "LostMister Shop",
+    "Owner": "LostMister                      ",
+    "Map": "Dats Center (7)"
+  },
+  {
+    "Item": "Ring of Sealed Baihumon",
+    "Price": "400,000",
     "Quantity": "2",
     "Shop Name": "Hocicotordo Shop",
     "Owner": "Hocicotordo                     ",
@@ -22337,6 +22345,14 @@
   },
   {
     "Item": "Qinglongmon Seal",
+    "Price": "4,000",
+    "Quantity": "1,050",
+    "Shop Name": "LostMister Shop",
+    "Owner": "LostMister                      ",
+    "Map": "Dats Center (7)"
+  },
+  {
+    "Item": "Qinglongmon Seal",
     "Price": "5,000",
     "Quantity": "300",
     "Shop Name": "omega ch2 guys",
@@ -22529,6 +22545,14 @@
   },
   {
     "Item": "Xuanwumon Seal",
+    "Price": "4,000",
+    "Quantity": "1,800",
+    "Shop Name": "LostMister Shop",
+    "Owner": "LostMister                      ",
+    "Map": "Dats Center (7)"
+  },
+  {
+    "Item": "Xuanwumon Seal",
     "Price": "5,000",
     "Quantity": "200",
     "Shop Name": "EggsAndData Shop",
@@ -22662,6 +22686,14 @@
     "Shop Name": "Krizzix Shop",
     "Owner": "Krizzix                         ",
     "Map": "Dats Center (0)"
+  },
+  {
+    "Item": "Zhuqiaomon Seal",
+    "Price": "4,000",
+    "Quantity": "3,399",
+    "Shop Name": "LostMister Shop",
+    "Owner": "LostMister                      ",
+    "Map": "Dats Center (7)"
   },
   {
     "Item": "Tsunomon Seal",
@@ -24974,6 +25006,14 @@
     "Shop Name": "Pingu CH0 AAAAAAA",
     "Owner": "Makoto                          ",
     "Map": "Dats Center (0)"
+  },
+  {
+    "Item": "Baihumon Seal",
+    "Price": "4,000",
+    "Quantity": "1,201",
+    "Shop Name": "LostMister Shop",
+    "Owner": "LostMister                      ",
+    "Map": "Dats Center (7)"
   },
   {
     "Item": "Sleipmon Seal",
