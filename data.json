@@ -11787,14 +11787,6 @@
     "Item": "WG [HP] ChipSet R16",
     "Price": "2,000,000",
     "Quantity": "1",
-    "Shop Name": "RenaChan Shop ch0",
-    "Owner": "RenaChan                        ",
-    "Map": "Dats Center (0)"
-  },
-  {
-    "Item": "WG [HP] ChipSet R16",
-    "Price": "2,000,000",
-    "Quantity": "1",
     "Shop Name": "MS LV 9 2T FREE",
     "Owner": "Lanzero                         ",
     "Map": "Dats Center (1)"
@@ -22434,7 +22426,7 @@
   {
     "Item": "Examon Seal",
     "Price": "260,000",
-    "Quantity": "4",
+    "Quantity": "3",
     "Shop Name": "ch2 thanax",
     "Owner": "Thanax                          ",
     "Map": "Dats Center (2)"
@@ -32021,14 +32013,6 @@
     "Quantity": "1",
     "Shop Name": "Rahen Shop",
     "Owner": "Rahen                           ",
-    "Map": "Dats Center (0)"
-  },
-  {
-    "Item": "Housemon Seal",
-    "Price": "600,000,000",
-    "Quantity": "20",
-    "Shop Name": "RenaChan Shop ch0",
-    "Owner": "RenaChan                        ",
     "Map": "Dats Center (0)"
   },
   {
@@ -45582,14 +45566,6 @@
     "Shop Name": "Shout Ch5",
     "Owner": "VaTu                            ",
     "Map": "Dats Center (5)"
-  },
-  {
-    "Item": "Double Reinforcement ChipSet Kit",
-    "Price": "110,000,000",
-    "Quantity": "1",
-    "Shop Name": "RenaChan Shop ch0",
-    "Owner": "RenaChan                        ",
-    "Map": "Dats Center (0)"
   },
   {
     "Item": "Double Reinforcement ChipSet Kit",
