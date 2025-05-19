@@ -7282,7 +7282,7 @@
   {
     "Item": "Consignment shop license (Kamemon) [30 Day] Box",
     "Price": "19,800,000",
-    "Quantity": "6",
+    "Quantity": "3",
     "Shop Name": "Behind Omega Ch1",
     "Owner": "DXebec                          ",
     "Map": "Dats Center (1)"
@@ -16966,14 +16966,6 @@
     "Shop Name": "King99 Shop",
     "Owner": "King99                          ",
     "Map": "Dats Center (7)"
-  },
-  {
-    "Item": "Fanronkou",
-    "Price": "1,149,999",
-    "Quantity": "33",
-    "Shop Name": "OX FOR BAM",
-    "Owner": "WalkingBAM                      ",
-    "Map": "Dats Center (8)"
   },
   {
     "Item": "Fanronkou",
@@ -32433,6 +32425,14 @@
   },
   {
     "Item": "Satanic DigiAura Box [30 Days]",
+    "Price": "4,900,000",
+    "Quantity": "1",
+    "Shop Name": "Flowy Shop",
+    "Owner": "Flowy                           ",
+    "Map": "Dats Center (0)"
+  },
+  {
+    "Item": "Satanic DigiAura Box [30 Days]",
     "Price": "4,950,000",
     "Quantity": "1",
     "Shop Name": "Seals fih",
@@ -41378,6 +41378,14 @@
   {
     "Item": "Yggdrasil Core",
     "Price": "5,000,000",
+    "Quantity": "45",
+    "Shop Name": "Flowy Shop",
+    "Owner": "Flowy                           ",
+    "Map": "Dats Center (0)"
+  },
+  {
+    "Item": "Yggdrasil Core",
+    "Price": "5,000,000",
     "Quantity": "35",
     "Shop Name": "Bancho ch2",
     "Owner": "xBLasterx                       ",
@@ -42657,6 +42665,14 @@
   },
   {
     "Item": "Mark of Digital Hazard",
+    "Price": "400,000",
+    "Quantity": "10",
+    "Shop Name": "Flowy Shop",
+    "Owner": "Flowy                           ",
+    "Map": "Dats Center (0)"
+  },
+  {
+    "Item": "Mark of Digital Hazard",
     "Price": "415,000",
     "Quantity": "53",
     "Shop Name": "Selbi Shop",
@@ -43485,6 +43501,14 @@
     "Quantity": "58",
     "Shop Name": "REBORN CLONES",
     "Owner": "SaintOushiza                    ",
+    "Map": "Dats Center (0)"
+  },
+  {
+    "Item": "Complete Virus",
+    "Price": "765,000",
+    "Quantity": "22",
+    "Shop Name": "Flowy Shop",
+    "Owner": "Flowy                           ",
     "Map": "Dats Center (0)"
   },
   {
@@ -44918,6 +44942,14 @@
     "Shop Name": "oii Shop",
     "Owner": "oii                             ",
     "Map": "Dats Center (7)"
+  },
+  {
+    "Item": "Wooden Puppet Core",
+    "Price": "11,500,000",
+    "Quantity": "22",
+    "Shop Name": "Flowy Shop",
+    "Owner": "Flowy                           ",
+    "Map": "Dats Center (0)"
   },
   {
     "Item": "Wooden Puppet Core",
