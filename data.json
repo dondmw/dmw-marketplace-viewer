@@ -1578,7 +1578,7 @@
   {
     "Item": "Fruit of Genesis",
     "Price": "650,000",
-    "Quantity": "13",
+    "Quantity": "12",
     "Shop Name": "kurata 5",
     "Owner": "Mafty                           ",
     "Map": "Dats Center (5)"
@@ -17417,14 +17417,6 @@
   },
   {
     "Item": "Uprising Infernal Flame Crystal",
-    "Price": "780,000",
-    "Quantity": "7",
-    "Shop Name": "vending ch2",
-    "Owner": "Rencore                         ",
-    "Map": "Dats Center (2)"
-  },
-  {
-    "Item": "Uprising Infernal Flame Crystal",
     "Price": "800,000",
     "Quantity": "19",
     "Shop Name": "kielz Shop",
@@ -18698,7 +18690,7 @@
   {
     "Item": "Devil Low Class DATA",
     "Price": "489",
-    "Quantity": "5,484",
+    "Quantity": "5,384",
     "Shop Name": "HASHIMA CH5",
     "Owner": "Isurus                          ",
     "Map": "Dats Center (5)"
@@ -19873,14 +19865,6 @@
   },
   {
     "Item": "Digi-Egg of Miracle",
-    "Price": "82,500,000",
-    "Quantity": "1",
-    "Shop Name": "Riryoku Shop",
-    "Owner": "Riryoku                         ",
-    "Map": "Dats Center (5)"
-  },
-  {
-    "Item": "Digi-Egg of Miracle",
     "Price": "83,998,998",
     "Quantity": "1",
     "Shop Name": "Miracle100ATV GOD",
@@ -20978,7 +20962,7 @@
   {
     "Item": "Togemon DigiEgg",
     "Price": "200,000",
-    "Quantity": "13",
+    "Quantity": "12",
     "Shop Name": "Tai n eggs Ch 0",
     "Owner": "ChibiDahaka                     ",
     "Map": "Dats Center (0)"
